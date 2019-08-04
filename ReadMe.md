@@ -1,4 +1,4 @@
-# Project Title
+# JSON Server
 
 FAKE JSON API SERVER USING JSON_SERVER
 
@@ -21,12 +21,12 @@ http://localhost:3000/companies/1
 http://localhost:3000/companies/1/users
 ``````
 
-### Filter comapny by name 
+### Filter company by name 
 ``````
 http://localhost:3000/companies?name=Apple
 ``````
 
-### Limit comapny by name 
+### Limit company by name 
 ``````
 http://localhost:3000/companies?_limit=2
 ``````
